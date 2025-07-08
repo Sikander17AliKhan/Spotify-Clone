@@ -2,20 +2,6 @@
 
 A responsive Spotify web UI clone built using **HTML** and **CSS**. This project recreates the layout and design of the Spotify desktop app, including sidebar navigation, top navbar, playlist display, and music controls.
 
-## 🚀 Live Demo
-
-[Click here to view the live demo](#)  
-*(Replace `#` with your live link if hosted on GitHub Pages or Netlify)*
-
----
-
-## 📸 Preview
-
-![Spotify Clone Preview](preview.png)  
-*(Add a screenshot or replace with your actual image file path)*
-
----
-
 ## 🔧 Features
 
 - Spotify-inspired layout and colors  
